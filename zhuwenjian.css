@@ -25,3 +25,8 @@ p {
   text-align: center;
   color:yellow
 }
+img {
+  position: absolute;
+  left: 50%;
+  margin-left: -181px;
+}
