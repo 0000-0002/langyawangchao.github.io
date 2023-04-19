@@ -1,25 +1,33 @@
-
+body {
+  background-color:#0000CD;
+}
 h1 {
   text-align: center;
   color:yellow
+  background-color:#00ff00;
 }
 h2 {
   text-align: center;
   color:yellow
+  background-color:#87CEEB;
 }
 h3 {
   text-align: center;
   color:yellow
+  background-color:#87CEEB;
 }
 h4 {
   text-align: center;
   color:yellow
+  background-color:#87CEEB;
 }
 a {
   text-align: center;
   color:yellow
+  background-color:#87CEEB;
 }
 p {
   text-align: center;
   color:yellow
+  background-color:#87CEEB;
 }
